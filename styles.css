@@ -1,0 +1,72 @@
+.navbar {
+  border-bottom: solid 2px #efefef;
+  background-color: #ffffff;
+}
+
+
+.navbar-brand img {
+    margin-top: -18px;
+    width: auto;
+    max-width: 45%;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: white;
+  min-height: 400px;
+  margin-bottom: 0px;
+  background-image: url(jumbotron.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+h2 {
+  text-align: center;
+  color: pink;
+}
+
+.eminem {
+  width: 100%;
+}
+
+.footer {
+  text-align: center;
+}
+
+
+
+body { 
+  background-color: #ffffff;
+}
+
+
+
+
+ul {
+  color: navy;
+}
+
+h2 {
+  text-align: center;
+}
+
+.navigation {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.navigation li {
+  display: inline;
+  padding: 0 10px;
+}
+
+.navigation a {
+  color: #A38AFF;
+}
+
+
